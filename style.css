@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.25em;
+    padding: 0 32px;
+}
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    width: 100%;
+}
+a {
+    text-decoration: underline;
+    color: white;
+}
